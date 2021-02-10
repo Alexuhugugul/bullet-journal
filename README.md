@@ -1,1 +1,1 @@
-# microBlog
+# Journal 
